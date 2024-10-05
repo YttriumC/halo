@@ -45,7 +45,7 @@ watch(
         <editor-content
           :editor="editor"
           :style="contentStyles"
-          class="editor-content markdown-body relative"
+          class="editor-content markdown-body relative mb-[45vh]"
         />
       </div>
       <div
